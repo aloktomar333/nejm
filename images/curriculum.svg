@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.66" height="20.713" viewBox="0 0 37.66 20.713">
+  <g id="Calendar_Deadline" data-name="Calendar Deadline" transform="translate(-4.973 -14.775)">
+    <path id="Path_26748" data-name="Path 26748" d="M40.356,30A10.356,10.356,0,1,0,50.713,40.356,10.356,10.356,0,0,0,40.356,30Zm0,18.83a8.473,8.473,0,1,1,8.473-8.473,8.473,8.473,0,0,1-8.473,8.473Z" transform="translate(-8.08 -15.225)" fill="#099"/>
+    <path id="Path_26749" data-name="Path 26749" d="M26.122,34H12.941a.941.941,0,0,0,0,1.883H26.122a.941.941,0,0,0,0-1.883Z" transform="translate(-7.027 -15.459)" fill="#099"/>
+    <path id="Path_26750" data-name="Path 26750" d="M26.59,46H20.942a.941.941,0,1,0,0,1.883H26.59a.941.941,0,0,0,0-1.883Z" transform="translate(-7.495 -16.161)" fill="#099"/>
+    <path id="Path_26751" data-name="Path 26751" d="M26.356,40H16.941a.941.941,0,0,0,0,1.883h9.415a.941.941,0,1,0,0-1.883Z" transform="translate(-7.261 -15.81)" fill="#099"/>
+    <path id="Path_26752" data-name="Path 26752" d="M41.883,40.259V35.941a.941.941,0,0,0-1.883,0v4.707a.941.941,0,0,0,.276.665L43.1,44.139a.941.941,0,1,0,1.331-1.331Z" transform="translate(-8.665 -15.517)" fill="#099"/>
+  </g>
+</svg>
